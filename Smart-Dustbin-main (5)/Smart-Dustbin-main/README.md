@@ -32,3 +32,6 @@ https://github.com/Dhananjaykp/Tech/assets/137052868/155325f5-d3e9-4ac5-a4d3-9d7
 ## Circuit Diagram
 
 ![smart_dustbin_circuit](https://user-images.githubusercontent.com/56248007/119528865-31547380-bd9f-11eb-8535-9605b1661202.png)
+
+![image](https://github.com/Dhananjaykp/Tech/assets/137052868/3a2e3b10-5a12-4656-8dbb-cbdfb079171c)
+
