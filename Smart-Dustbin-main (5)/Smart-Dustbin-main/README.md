@@ -44,5 +44,6 @@ https://github.com/Dhananjaykp/Tech/assets/137052868/155325f5-d3e9-4ac5-a4d3-9d7
  3. Bo Motor:
     A "BO motor" typically refers to a small DC (direct current) gear motor commonly used in hobby electronics and robotics. "BO" stands for "Battery Operated," highlighting its suitability for low-voltage, battery-powered projects. These motors are popular for their ease of use, affordability, and compatibility with various robotic components. They usually come with built-in gearboxes to provide higher torque at lower speeds, making them ideal for driving wheels or other mechanical parts in small robots or DIY projects.
 
+4. 
 
    
