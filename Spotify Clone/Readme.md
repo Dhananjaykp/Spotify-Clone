@@ -15,3 +15,5 @@ As part of learning to code,I completed a project that involved creating a basic
 Once the Spotify clone is open in your browser, You can then click the play button next to the song to start playing it, and use the playback controls at the bottom of the page to control the song playback.The currently playing song and album artwork are displayed in the "Now Playing" section at the bottom of the page.
 
 ## Live-Demo -
+
+https://spotifynetlifyapp.netlify.app/
